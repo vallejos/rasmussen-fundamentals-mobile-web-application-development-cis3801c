@@ -1,0 +1,62 @@
+.app-home-date {
+  position: absolute;
+}
+
+.app-home-logo {
+  position: absolute;
+  height: 50px;
+  right: 20px;
+  top: 0;
+}
+
+.app-menu {
+  margin-bottom: 20px;
+  display: table;
+}
+
+.app-home-grid {
+  margin-top: 30px;
+}
+
+.app-home-footer {
+  margin-top: 30px;
+  text-align: center;
+  border-top: 1px solid #eee;
+  padding-top: 14px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.page-title {
+  margin: 20px !important;
+}
+
+.data-header {
+  background: darkblue;
+  color: lavender;
+}
+
+.data-row-dark {
+  background: lightcyan;
+}
+
+.data-row-light {
+  background: lavender;
+}
+
+.active {
+  font-weight: bold;
+  border-bottom: 3px solid #333;
+}
+
+.card {
+  min-height: 410px;
+  margin: 10px auto;
+}
+
+.card:hover {
+  box-sizing: border-box;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.15);
+}
